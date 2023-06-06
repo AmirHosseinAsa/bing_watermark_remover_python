@@ -4,7 +4,7 @@
 ## Installing
 Run in order 
 
-git clone 
-cd bing_watermark_remover_python
-pip install requirements.txt
+git clone https://github.com/AmirHosseinAsa/bing_watermark_remover_python \n
+cd bing_watermark_remover_python \n
+pip install requirements.txt \n
 py app.py
