@@ -15,4 +15,4 @@ py app.py
 ````
 
 ## Atention
-Use it only for personal purposes.
+Please use it only for personal use.
