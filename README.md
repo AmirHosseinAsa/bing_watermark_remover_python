@@ -9,7 +9,7 @@ git clone https://github.com/AmirHosseinAsa/bing_watermark_remover_python
 
 cd bing_watermark_remover_python
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 py app.py
 ````
